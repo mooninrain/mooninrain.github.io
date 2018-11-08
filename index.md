@@ -1,7 +1,7 @@
 # Wu Ruidong
-<div style="text-align: center"><img width="312" height="416" src="mooninrain.github.io/img-folder/img1.jpg"></div>
+<img width="156" height="208" src="mooninrain.github.io/img-folder/img1.jpg"><br>
 B. S. Student<br>
-Natural Language Processing Lab,<br>
+**Natural Language Processing Lab,**<br>
 Deptartment of Computer Science and Technology,<br>
 Tsinghua University, Beijing, China.<br><br>
 
