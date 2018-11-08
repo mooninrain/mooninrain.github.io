@@ -4,10 +4,9 @@ B. S. Student<br>
 Natural Language Processing Lab,<br>
 Deptartment of Computer Science and Technology,<br>
 Tsinghua University, Beijing, China.<br><br>
-_Email: wrd15@mails.tsinghua.edu.cn_
+***Email: wrd15@mails.tsinghua.edu.cn***
 
 ##  About Me
-
 Hello! I'm an undergraduate student in the Department of Electrical Engineering at Tsinghua University, and this is my resume page. My current research focuses on relation extraction, and I'm also strongly interested in multimodel learning and the interdisciplinary field of cognitive science, neuroscience and AI.
 
 ##  Education
