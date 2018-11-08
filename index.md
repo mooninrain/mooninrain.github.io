@@ -25,4 +25,4 @@ Hello! I'm an undergraduate student in the Department of Electrical Engineering 
 [2016-2017.] Xuetang Program, Tsinghua University.
 
 ##  Skills
-pytorch, python, C, C++, MATLAB, R, SAS
+PyTorch, python, C, C++, MATLAB, R, SAS, LaTeX
