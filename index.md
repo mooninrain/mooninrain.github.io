@@ -4,7 +4,7 @@ B. S. Student<br>
 Natural Language Processing Lab,<br>
 Deptartment of Computer Science and Technology,<br>
 Tsinghua University, Beijing, China.<br><br>
-Email: *wrd15@mails.tsinghua.edu.cn*
+Email: _wrd15@mails.tsinghua.edu.cn_
 
 ##  About Me
 
