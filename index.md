@@ -1,5 +1,5 @@
 # Wu Ruidong
-<img width="156" height="208" src="mooninrain.github.io/img-folder/img1.jpg"><br><br>
+<img width="204" height="209" src="mooninrain.github.io/img-folder/img1.jpg"><br><br>
 ***CV: [CV](http://mooninrain.github.io/pdf-folder/CV.pdf)***<br>
 ***Email: wrd15@mails.tsinghua.edu.cn***
 
