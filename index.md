@@ -1,3 +1,11 @@
+#
+
+#About Me
+
+Hello! I'm an undergraduate student in the Department of Electrical Engineering at Tsinghua University, and this is my resume page. My current research focuses on relation extraction, and I'm also strongly interested in multimodel learning and the interdisciplinary field of cognitive science, neuroscience and AI.
+
+##
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mooninrain/mooninrain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
