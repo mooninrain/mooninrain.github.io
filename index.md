@@ -5,6 +5,7 @@ Natural Language Processing Lab,<br>
 Deptartment of Computer Science and Technology,<br>
 Tsinghua University, Beijing, China.<br><br>
 
+***CV: [CV]("mooninrain.github.io/pdf-folder/cv.pdf")***
 ***Email: wrd15@mails.tsinghua.edu.cn***
 
 ##  About Me
