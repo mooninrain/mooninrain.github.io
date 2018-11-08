@@ -1,5 +1,5 @@
 # Wu Ruidong
-![](https://github.com/mooninrain/mooninrain.github.io/img-folder/Logo/img1.jpg)  
+![](mooninrain.github.io/img-folder/img1.jpg)  
 B. S. Student
 Natural Language Processing Lab,
 Deptartment of Computer Science and Technology,
