@@ -1,3 +1,6 @@
+#Wu Ruidong
+![](https://github.com/mooninrain/mooninrain.github.io/raw/master/Logo/foryou.gif)  
+
 ##About Me
 
 Hello! I'm an undergraduate student in the Department of Electrical Engineering at Tsinghua University, and this is my resume page. My current research focuses on relation extraction, and I'm also strongly interested in multimodel learning and the interdisciplinary field of cognitive science, neuroscience and AI.
