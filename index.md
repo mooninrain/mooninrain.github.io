@@ -1,5 +1,5 @@
 #Wu Ruidong
-![](https://github.com/mooninrain/mooninrain.github.io/raw/master/Logo/foryou.gif)  
+![](https://github.com/mooninrain/mooninrain.github.io/img-folder/Logo/img1.jpg)  
 
 ##About Me
 
