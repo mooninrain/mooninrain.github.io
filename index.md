@@ -1,10 +1,23 @@
-#
-
-#About Me
+##About Me
 
 Hello! I'm an undergraduate student in the Department of Electrical Engineering at Tsinghua University, and this is my resume page. My current research focuses on relation extraction, and I'm also strongly interested in multimodel learning and the interdisciplinary field of cognitive science, neuroscience and AI.
 
-##
+##Education
+[09.2017-present.] B.S. candidate, Dept. of EE, Tsinghua University, Beijing, China. *GPA:3.6/4(4/284 last semester)*
+[09.2017-present.] minor, Center for Statistical Science, Tsinghua University, Beijing, China. *GPA:3.7/4*
+[09.2015-09.2017.] B.S. candidate, Dept. of Chemistry, Tsinghua University, Beijing, China.
+[09.2012-06.2015.] Hangzhou No.2 High School, Zhejiang, China.
+
+##Experience
+[2018.] 
+
+##Honors and Awards
+[2018.] Academic Excellence Scholarship, Tsinghua University.
+[2018.] Meritorious Winner. ICM 2018.
+[2016-2017.] Xuetang Program, Tsinghua University.
+
+##Skills
+C,C++,python,R,SAS,pytorch
 
 ## Welcome to GitHub Pages
 
