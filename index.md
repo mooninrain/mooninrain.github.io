@@ -1,4 +1,4 @@
-#Wu Ruidong
+# Wu Ruidong
 ![](https://github.com/mooninrain/mooninrain.github.io/img-folder/Logo/img1.jpg)  
 B. S. Student
 Natural Language Processing Lab,
@@ -6,23 +6,23 @@ Deptartment of Computer Science and Technology,
 Tsinghua University, Beijing, China.
 Email: wrd15@mails.tsinghua.edu.cn
 
-##About Me
+##  About Me
 
 Hello! I'm an undergraduate student in the Department of Electrical Engineering at Tsinghua University, and this is my resume page. My current research focuses on relation extraction, and I'm also strongly interested in multimodel learning and the interdisciplinary field of cognitive science, neuroscience and AI.
 
-##Education
-[09.2017-present.] B.S. candidate, Dept. of EE, Tsinghua University, Beijing, China. **GPA:3.6/4(4/284 last semester)**
-[09.2017-present.] minor, Center for Statistical Science, Tsinghua University, Beijing, China.
-[09.2015-09.2017.] B.S. candidate, Dept. of Chemistry, Tsinghua University, Beijing, China.
+##  Education
+[09.2017-present.] B.S. candidate, Dept. of EE, Tsinghua University, Beijing, China. **GPA:3.6/4(4/284 last semester)**<br>
+[09.2017-present.] minor, Center for Statistical Science, Tsinghua University, Beijing, China.<br>
+[09.2015-09.2017.] B.S. candidate, Dept. of Chemistry, Tsinghua University, Beijing, China.<br>
 [09.2012-06.2015.] Hangzhou No.2 High School, Zhejiang, China.
 
-##Experience
+##  Experience
 [2018.] NLP lab, Dept. of CS&T, Tsinghua University, Beijing, China.
 
-##Honors and Awards
-[2018.] Academic Excellence Scholarship, Tsinghua University.
-[2018.] Meritorious Winner. ICM 2018.
+##  Honors and Awards
+[2018.] Academic Excellence Scholarship, Tsinghua University.<br>
+[2018.] Meritorious Winner. ICM 2018.<br>
 [2016-2017.] Xuetang Program, Tsinghua University.
 
-##Skills
+##  Skills
 C,C++,python,R,SAS,pytorch
