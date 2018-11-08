@@ -1,10 +1,10 @@
 # Wu Ruidong
-<div style="text-align: right"><img width="312" height="416" src="mooninrain.github.io/img-folder/img1.jpg"></div>
+<div style="text-align: center"><img width="312" height="416" src="mooninrain.github.io/img-folder/img1.jpg"></div>
 B. S. Student<br>
 Natural Language Processing Lab,<br>
 Deptartment of Computer Science and Technology,<br>
-Tsinghua University, Beijing, China.<br>
-Email: wrd15@mails.tsinghua.edu.cn
+Tsinghua University, Beijing, China.<br><br>
+Email: *wrd15@mails.tsinghua.edu.cn*
 
 ##  About Me
 
@@ -12,7 +12,7 @@ Hello! I'm an undergraduate student in the Department of Electrical Engineering 
 
 ##  Education
 [09.2017-present.] B.S. candidate, Dept. of EE, Tsinghua University, Beijing, China.<br> 
-&#9**GPA:3.6/4 (4/284 last semester)** </div>
+                   **GPA:3.6/4 (4/284 last semester)** <br>
 [09.2017-present.] minor, Center for Statistical Science, Tsinghua University, Beijing, China.<br>
 [09.2015-09.2017.] B.S. candidate, Dept. of Chemistry, Tsinghua University, Beijing, China.<br>
 [09.2012-06.2015.] Hangzhou No.2 High School, Zhejiang, China.
