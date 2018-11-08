@@ -1,9 +1,9 @@
 # Wu Ruidong
-![](mooninrain.github.io/img-folder/img1.jpg)  
-B. S. Student
-Natural Language Processing Lab,
-Deptartment of Computer Science and Technology,
-Tsinghua University, Beijing, China.
+<div align=center><img width="312" height="416" src="mooninrain.github.io/img-folder/img1.jpg"/></div>
+B. S. Student<br>
+Natural Language Processing Lab,<br>
+Deptartment of Computer Science and Technology,<br>
+Tsinghua University, Beijing, China.<br>
 Email: wrd15@mails.tsinghua.edu.cn
 
 ##  About Me
@@ -25,4 +25,4 @@ Hello! I'm an undergraduate student in the Department of Electrical Engineering 
 [2016-2017.] Xuetang Program, Tsinghua University.
 
 ##  Skills
-C,C++,python,R,SAS,pytorch
+C, C++, python, R, SAS, pytorch
