@@ -4,7 +4,7 @@
 ***Email: wrd15@mails.tsinghua.edu.cn***
 
 ##  About Me
-Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University, and this is my resume page. My current research focuses on relation extraction, and I'm also strongly interested in cross-model learning and the interdisciplinary field of cognitive science, neuroscience and AI.
+Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University, and this is my resume page. My current research focuses on unsupervised relation extraction, and I'm also strongly interested in cross-model learning, reinforcement learning and the interdisciplinary field of cognitive science, neuroscience and AI.
 
 ##  Education
 [09.2017-present.] B.S. candidate, Dept. of EE, THU, Beijing. **GPA:3.6/4 (3.9 last sem)** <br>
