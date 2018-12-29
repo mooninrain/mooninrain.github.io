@@ -25,6 +25,6 @@ Programming Skills: TensorFlow, PyTorch, python, C, C++, MATLAB, R, SAS, Verilog
 Language: Chinese(Mothertongue), English(Fluent)<br>
 
 ##  Interests
-Literature: I'm a Chinese misty poetry writer. My favorite writers include Kawabata Yasunari, Miyazawa Kenji and Yao Lu.
-Sports: I used to be a long jump athlete, a basketball player. Now I like soccer most, and my comfortable position includes GK, CDM and LMF.
+Literature: I'm a Chinese misty poetry writer. My favorite writers include Kawabata Yasunari, Miyazawa Kenji and Yao Lu.<br>
+Sports: I used to be a long jump athlete, a basketball player. Now I like soccer most, and my comfortable position includes GK, CDM and LMF.<br>
 Art: I really love fashion design, but I'm still learning it!
