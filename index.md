@@ -4,10 +4,10 @@
 ***Email: wrd15@mails.tsinghua.edu.cn***
 
 ##  About Me
-Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University, and this is my resume page. My current research focuses on unsupervised relation extraction, and I'm also strongly interested in cross-model learning, reinforcement learning and the interdisciplinary field of cognitive science, neuroscience and AI.
+Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University, and this is my resume page. My current research focuses on weakly-supervised and open-domain relation extraction, and I'm also strongly interested in concept learning and reasoning with few or no explicit supervision.
 
 ##  Education
-[09.2017-present.] B.S. candidate, Dept. of EE, THU, Beijing. GPA:3.6/4<br>
+[09.2017-present.] B.S. candidate, Dept. of EE, THU, Beijing.<br>
 [09.2017-present.] Minor, Center for Statistical Science, THU, Beijing.<br>
 [09.2015-09.2017.] B.S. candidate, Dept. of Chemistry, THU, Beijing.<br>
 [09.2012-06.2015.] Hangzhou No.2 High School, Zhejiang.
@@ -21,7 +21,7 @@ Hello! I'm an undergraduate student in the Department of Electronic Engineering 
 [2016-2017.] Xuetang Program, Tsinghua University.
 
 ##  Skills
-Programming Skills: TensorFlow, PyTorch, python, C, C++, MATLAB, R, SAS, Verilog, LaTeX<br>
+Programming Skills: python(and TensorFlow package), C, C++, MATLAB, R, SAS, Verilog, LaTeX<br>
 Language: Chinese(Mothertongue), English(Fluent)<br>
 
 ##  Interests
