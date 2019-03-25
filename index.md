@@ -15,14 +15,14 @@ Hello! I'm an undergraduate student in the Department of Electronic Engineering 
 ##  Experience
 [2018-present.] THUNLP lab, Dept. of CS&T, THU, Beijing.
 
-##  Honors and Awards
+<!-- ##  Honors and Awards
 [2018.] Academic Excellence Scholarship, Tsinghua University.<br>
 [2018.] Meritorious Winner. ICM 2018.<br>
 [2016-2017.] Xuetang Program, Tsinghua University.
 
 ##  Skills
 Programming Skills: python(and TensorFlow package), C, C++, MATLAB, R, SAS, Verilog, LaTeX<br>
-Language: Chinese(Mothertongue), English(Fluent)<br>
+Language: Chinese(Mothertongue), English(Fluent)<br> -->
 
 ##  Interests
 -Literature: I'm a Chinese misty poetry writer. My favorite writers include Kawabata Yasunari, Miyazawa Kenji and Yao Lu.<br>
