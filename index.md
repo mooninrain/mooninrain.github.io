@@ -6,7 +6,7 @@
 ##  About Me
 Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University. I'm currently working with professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at [THUNLP Lab](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en).<br>
 
-Humans understand the world with all kinds of prior knowledges. How can machine intelligence discovers and makes use of knowledges and concepts? Is it efficient to do it in a human-like way or not? Driven by my curiosity, my research focuses on weakly-supervised and open-domain relation extraction, graph understanding and generation, as well as visual concept learning and concept-driven object segmentation.
+Humans understand the world with all kinds of prior knowledges. How can machine intelligence discover and make use of knowledges and concepts? Is it efficient to do it in a human-like way or not? Driven by my curiosity, my research focuses on weakly-supervised and open-domain relation extraction, graph understanding and generation, as well as visual concept learning and concept-driven object segmentation.
 
 ##  Education
 [09.2017-present.] B.S. candidate, Dept. of EE, THU, Beijing.<br>
