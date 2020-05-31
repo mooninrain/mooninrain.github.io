@@ -1,4 +1,3 @@
-Title?
 # Ruidong Wu
 <img width="204" height="209" src="mooninrain.github.io/img-folder/img1.jpg"><br><br>
 ***CV: [CV](http://mooninrain.github.io/pdf-folder/CV.pdf)***<br>
