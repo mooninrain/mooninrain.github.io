@@ -4,7 +4,9 @@
 ***Email: wrd15@mails.tsinghua.edu.cn***
 
 ##  About Me
-Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University. I'm currently working with professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at [THUNLP Lab](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en). My current research focuses on weakly-supervised and open-domain relation extraction, and I'm also strongly interested in concept learning and reasoning with few or no explicit supervision.
+Hello! I'm an undergraduate student in the Department of Electronic Engineering at Tsinghua University. I'm currently working with professor [Zhiyuan Liu](http://nlp.csai.tsinghua.edu.cn/~lzy/) at [THUNLP Lab](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en).<br>
+
+Humans understand the world with all kinds of prior knowledges. How can machine intelligence discovers and makes use of knowledges and concepts? Is it efficient to do it in a human-like way or not? Driven by my curiosity, my research focuses on weakly-supervised and open-domain relation extraction, graph understanding and generation, as well as visual concept learning and concept-driven object segmentation.
 
 ##  Education
 [09.2017-present.] B.S. candidate, Dept. of EE, THU, Beijing.<br>
@@ -13,7 +15,9 @@ Hello! I'm an undergraduate student in the Department of Electronic Engineering 
 [09.2012-06.2015.] Hangzhou No.2 High School, Zhejiang.
 
 ##  Experience
-[2018-present.] THUNLP lab, Dept. of CS&T, THU, Beijing.
+[2018-2019] THUNLP lab, Dept. of CS&T, THU, Beijing.<br>
+[2019summer] Peng lab, Dept. of CS, UIUC, Champaign-Urbana.<br>
+[2019-present.] Computational Cognitive Science lab, CSAIL&BCS, MIT, Cambridge.<br>
 
 <!-- ##  Honors and Awards
 [2018.] Academic Excellence Scholarship, Tsinghua University.<br>
