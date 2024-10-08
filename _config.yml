@@ -24,8 +24,8 @@ author:
   avatar           : "profile.jpg"
   name             : "Ruidong Wu"
   pronouns         : # example: "she/her"  
-  bio              : "To be useful"
-  location         : "Earth"
+  bio              : "To be a useful person"
+  # location         : "Earth"
   employer         : # "Red Brick University"
   uri              : # URL
   email            : "mooninsiderain@gmail.com" 
