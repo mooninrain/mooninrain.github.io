@@ -1,13 +1,13 @@
 ---
-title: "Open relation extraction: Relational knowledge transfer from supervised data to unsupervised data"
+title: "Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data"
 collection: publications
 category: 2019
 # permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-4-01
 venue: 'EMNLP'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: '<b>Ruidong Wu<sup>&#8727;</sup></b>, Yuan Yao<sup>&#8727;</sup>, Xu Han, Ruobing Xie, Zhiyuan Liu, Fen Lin, Leyu Lin, and Maosong Sun. Open Relation Extraction: Relational Knowledge Transfer from Supervised Data to Unsupervised Data. EMNLP 2019'
 ---
 
